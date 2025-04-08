@@ -75,6 +75,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>new-spring-image</finalName>
 	</build>
 
 </project>
